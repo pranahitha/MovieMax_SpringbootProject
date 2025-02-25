@@ -8,7 +8,7 @@ Store the following movie list in a collection.
 | M1001  | SpiderMan  |
 | M1002  | Thor|
 | M1003  | Logan  |
-| M1004  | Conuring2|
+| M1004  | Conjuring 2|
 | M1005  | StarWars|
  
  
