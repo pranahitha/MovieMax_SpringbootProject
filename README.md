@@ -1,4 +1,4 @@
-Problem Statement:
+# Problem Statement:
 Implement the service layer of the Spring Boot application MovieMax.
 The classes for model, service, and main boot application should be in different packages.
 Store the following movie list in a collection.
@@ -25,7 +25,12 @@ The application should prompt the user to enter the following details and valida
 Display available movie names from the collection and prompt the user to select one. Do a case insensitive comparison to identify the movie Id.
 Display a success message if all validations are successful.
  
-Verification:
+## Verification:
 On execution, the application should display the following messages and prompt the user for ticket booking. The appropriate error message should come from invalid data entered by the user.
+
+## Solution :
+The below is the expected output 
+
+![image](https://github.com/user-attachments/assets/4b8e5ca7-4a84-4c53-968d-42b7fa79e512)
 
 
